@@ -1,0 +1,15 @@
+node_modules/
+.next/
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+*.node
+.env
+.env.local
+node_modules/
+.next/
+.env*.local
+out/
+build/
